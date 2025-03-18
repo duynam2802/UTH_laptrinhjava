@@ -1,0 +1,6 @@
+[submodule "JAVA/UTH"]
+	path = JAVA/UTH
+	url = https://github.com/duynam2802/UTH_laptrinhjava.git
+[submodule "UTH/JAVA"]
+	path = UTH/JAVA
+	url = https://github.com/duynam2802/UTH_laptrinhjava.git
